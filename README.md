@@ -36,7 +36,6 @@ Same choices → Draw
 
 ---
 
-# How to Run the Program
-
 # Requirements
 - Python 3.x installed
+- Run it in VSCode or Terminal
